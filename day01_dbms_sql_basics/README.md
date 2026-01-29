@@ -16,3 +16,5 @@
 
 ## Outcome
 Able to create a table, insert data, and retrieve records using basic SQL queries.
+
+
